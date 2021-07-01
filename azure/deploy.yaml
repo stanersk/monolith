@@ -16,4 +16,4 @@ spec:
         - name: monolith
           image: user15.azurecr.io/monolith:latest
           ports:
-            - containerPort: 8080
+            - containerPort: 8080 
